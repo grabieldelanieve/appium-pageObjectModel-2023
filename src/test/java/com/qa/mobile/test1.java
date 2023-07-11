@@ -1,4 +1,4 @@
-package qa.mobile;
+package com.qa.mobile;
 
 import io.appium.java_client.AppiumBy;
 import io.appium.java_client.AppiumDriver;
